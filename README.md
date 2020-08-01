@@ -49,4 +49,4 @@ I have successfully installed MacOS Catalina 10.15.4 on my i7 10700 non K runing
 
 # Benchmarks
 
-![Benchmarks](Benchmarks/coming-soon.png
+![Benchmarks](Benchmarks/coming-soon.jpg
