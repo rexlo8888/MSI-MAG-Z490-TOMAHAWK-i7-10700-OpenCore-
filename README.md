@@ -9,11 +9,11 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 # Hardware
 
 - Intel I7 10700
-- Gigabyte Z490 Vision D:
+- MSI MAG Z490 TOMAHAWK
 	- Audio: REALTEK/ALC1200-VD1
 	- 1x Realtek® RTL8125B 2.5G LAN + 1x Intel I219V 1G LAN
 	- 1x USB-C port
-- RAM: 32GB Corsair 3000MHz
+- RAM: 32GB DDR4 Corsair 3000MHz
 - GPU: XFX AMD Radeon RX 580 GTS XXX Edition 8GB
 
 # Working
@@ -21,7 +21,7 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 - [x] **Tested with macOS Catalina**
 - [x] **Audio**: Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7, device-id=0xA170, FakeID.kext, FakePCIID_Intel_HDMI_Audio.kext)
 - [x] **USB**, all ports
-- [x] **iGPU UHD630 but no HDMI-output yet only DisplayPort**
+- [x] **iGPU UHD630 Headless mode**
 - [x] **iMessage/FaceTime**
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
