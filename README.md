@@ -44,5 +44,5 @@ I have successfully installed MacOS Catalina 10.15.4 on my i7 10700 non K runing
 3. Delete all folders and then copy my EFI folder to the root of the EFI-partition
 4. Go to EFI/OC and open the config.plist with a plist Editor (You can use PlistEditor Pro use google for this)
 5. Once the config.plist is open navigate to PlatformInfo/Generic and paste your serials for MLB, SystemSerialNumber and SystemUUID. (you can use CorpNewt's GenSMBIOS)
-6. oot from the bootable USB and install macOS.
+6. Boot from the bootable USB and install macOS.
 7. Once macOS is installed you can copy the EFI folder to the EFI partition of the internal SSD/HDD
