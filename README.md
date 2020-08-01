@@ -2,7 +2,7 @@
 
 Hello,
 
-I have successfully installed MacOS Catalina 10.15.4 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
+I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing on MSI MAG Z490 TOMAHAWK.
 
 **Current Bootloader: OpenCore 0.6.0**
 
@@ -18,7 +18,7 @@ I have successfully installed MacOS Catalina 10.15.4 on my i7 10700 non K runing
 
 # Working
 
-- [x] **Tested with macOS Catalina and macOS Big Sur**
+- [x] **Tested with macOS Catalina**
 - [x] **Audio**: Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7, device-id=0xA170, FakeID.kext, FakePCIID_Intel_HDMI_Audio.kext)
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 but no HDMI-output yet only DisplayPort**
