@@ -22,6 +22,7 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 - [x] **Audio**: Realtek ALC1200-VD1 (AppleALC.kext, layout-id=7, device-id=0xA170, FakeID.kext, FakePCIID_Intel_HDMI_Audio.kext)
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 Headless mode**
+- [x] **RX 580 works OOB no kext used**
 - [x] **iMessage/FaceTime**
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
