@@ -23,6 +23,7 @@ I have successfully installed MacOS Catalina 10.15.5 on my i7 10700 non K runing
 - [x] **USB**, all ports
 - [x] **iGPU UHD630 Headless mode**
 - [x] **RX 580 works OOB no kext used**
+- [x] **Dual Monitor**
 - [x] **iMessage/FaceTime**
 - [x] **Sleep/Wake**
 - [x] **Shutdown**
